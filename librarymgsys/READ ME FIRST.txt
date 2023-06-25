@@ -1,0 +1,21 @@
+
+HOW TO RUN THE LIBRARY MANAGEMENT SYSTEM ON YOUR COMPUTER
+
+
+UNZIP THE FILE INTO htdocs or www folder for those using wamp
+
+OPEN PHPMYADMIN AND CREATE A DATABASE CALLED: nestwave_library
+THEN IMPORT THE FILE NAMED: nestwave_library
+
+
+START XAMMP PANEL AND OPEN THIS LINK IN THE BROWSER URL: http://localhost/librarymgsys/
+
+
+
+LOGIN INFORMATION: Username: Admin Password: Admin123
+
+
+
+*****PLEASE SUPPORT ME BY SUBSCRIBING AND LIKING MY VIDEOS ON MY CHANNEL ****
+
+If you have difficulty in running the system, whatsapp me on +256785855328 or ernestmane25@gmail.com
